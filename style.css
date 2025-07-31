@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color: purple;
+    color: white;
     font-family: 'Trebuchet MS', `Comunic Sans Ms´, cursive;
     margin: 0;
 }
@@ -13,7 +13,7 @@ header {
 
 h1 {
     font-size: 30px;
-    border-bottom: double 5px purple;
+    border-bottom: double 5px white;
     text-align: center;
 }
 
